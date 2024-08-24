@@ -6,45 +6,47 @@
 
 `1. User Table`
 
-<img width="922" alt="Screenshot 2024-08-24 at 08 15 31" src="https://github.com/user-attachments/assets/9b19d0ce-ff1a-4377-aef0-0c7b2c0391c9">
+<img width="922" alt="Screenshot 2024-08-24 at 08 15 31" src="https://github.com/user-attachments/assets/9994cc77-0224-4e9f-8784-0fb161c60be8">
 
 `2. Enployee Table`
 
-<img width="719" alt="Screenshot 2024-08-24 at 08 15 53" src="https://github.com/user-attachments/assets/7464f92b-cd2c-46b6-becb-455a008590b9">
+<img width="719" alt="Screenshot 2024-08-24 at 08 15 53" src="https://github.com/user-attachments/assets/32421188-dd3c-4c42-ba76-4f52b81ba29b">
+
 
 **Build and Run Docker Container**
 
 `1. docker-compose build`
 
-<img width="1588" alt="Screenshot 2024-08-24 at 14 26 47" src="https://github.com/user-attachments/assets/6a0841ed-e3eb-4e75-9c4d-f290cf6b9466">
+<img width="1588" alt="Screenshot 2024-08-24 at 14 26 47" src="https://github.com/user-attachments/assets/c3626432-1eb8-4a16-8fc9-40fb1a63df00">
 
 `2. docker-compose up for run docker`
 
-<img width="1586" alt="Screenshot 2024-08-24 at 14 27 19" src="https://github.com/user-attachments/assets/c9863e03-a31d-42c0-bb77-7ca1fd634e65">
+<img width="1586" alt="Screenshot 2024-08-24 at 14 27 19" src="https://github.com/user-attachments/assets/16b624de-1eb9-43d5-b9bc-c9f4c6106329">
 
 
 **API Endpoint Testing**
 
 `1. Register user`
 
-<img width="850" alt="Screenshot 2024-08-24 at 08 02 22" src="https://github.com/user-attachments/assets/05e83ee9-b85f-4826-b0bf-d25b66332884">
+<img width="850" alt="Screenshot 2024-08-24 at 08 02 22" src="https://github.com/user-attachments/assets/4d3564b3-c984-40ae-9409-5f6cf8814b1a">
 
 `2. Login user`
 
-<img width="855" alt="Screenshot 2024-08-24 at 14 30 51" src="https://github.com/user-attachments/assets/ed836d29-68d3-46bb-9bde-779e26425e3d">
+<img width="855" alt="Screenshot 2024-08-24 at 14 30 51" src="https://github.com/user-attachments/assets/b3ec75d0-96e3-459b-b34a-2ad4074183f2">
 
 `3. Create Employee`
 
-<img width="850" alt="Screenshot 2024-08-24 at 14 31 51" src="https://github.com/user-attachments/assets/273e7fa5-60ed-4503-be19-e22a138e7ac7">
+<img width="850" alt="Screenshot 2024-08-24 at 14 31 51" src="https://github.com/user-attachments/assets/aab4e42c-3563-47ac-a017-f2b3d5e11e83">
 
 `4. Update Employee`
 
-<img width="836" alt="Screenshot 2024-08-24 at 14 34 57" src="https://github.com/user-attachments/assets/6a1d2272-5642-4175-a6db-b8c32922d19a">
+<img width="836" alt="Screenshot 2024-08-24 at 14 34 57" src="https://github.com/user-attachments/assets/9d6dfc1b-1fe7-4478-b354-bd0e0d893c4f">
 
 `5. Delete Employee`
 
-<img width="853" alt="Screenshot 2024-08-24 at 14 36 47" src="https://github.com/user-attachments/assets/61886715-8876-42b2-89f3-e5399771647e">
+<img width="853" alt="Screenshot 2024-08-24 at 14 36 47" src="https://github.com/user-attachments/assets/7f9cc7de-d5b3-47db-b147-40a58d035370">
 
-`5. Get List Employee`
+`6. Get List Employee`
 
-<img width="1257" alt="Screenshot 2024-08-24 at 14 38 19" src="https://github.com/user-attachments/assets/39d5e87b-5097-4b01-9f3a-531453888b9f">
+<img width="1257" alt="Screenshot 2024-08-24 at 14 38 19" src="https://github.com/user-attachments/assets/a3bf45c4-0a33-47a9-9996-04e4beac31d0">
+
