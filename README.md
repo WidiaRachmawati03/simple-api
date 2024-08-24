@@ -2,6 +2,13 @@
 
 ## Summarize Of Testing Code On simple-api
 
+**Information**
+
+Please reload all Gradle projects as shown in the image below when opening the project for the first time, so that the `src` folder is recognized.
+
+<img width="605" alt="Screenshot 2024-08-24 at 17 20 46" src="https://github.com/user-attachments/assets/504d98a3-c7d4-4f66-8049-1df28689d28d">
+
+
 **Database**
 
 `1. User Table`
